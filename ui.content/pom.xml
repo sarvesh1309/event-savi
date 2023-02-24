@@ -49,6 +49,7 @@
                 <configuration>
                     <properties>
                         <cloudManagerTarget>none</cloudManagerTarget>
+                        <acHandling>merge_preserve</acHandling>
                     </properties>
                     <group>com.event.savi.practice</group>
                     <name>event-savi.ui.content</name>
