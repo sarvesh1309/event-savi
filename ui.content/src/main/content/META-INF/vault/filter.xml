@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/event-savi" mode="merge"/>
+    <filter root="/content/event-savi" mode="merge"/>
+    <filter root="/content/dam/event-savi/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/event-savi" mode="merge"/>
+</workspaceFilter>
